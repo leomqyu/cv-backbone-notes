@@ -1,3 +1,0 @@
-[submodule "20_ViT"]
-	path = 20_ViT
-	url = https://github.com/google-research/vision_transformer.git
